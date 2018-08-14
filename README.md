@@ -1,2 +1,4 @@
 # hello-world
-Modificando el RIDMI para probar los commits
+Modificando el RIDMI para probar los commit
+
+desde cmds
